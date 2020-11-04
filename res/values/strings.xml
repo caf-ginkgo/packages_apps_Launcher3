@@ -357,4 +357,8 @@
     <!-- Show labels on icon -->
     <string name="desktop_show_qsb_title">Quick Search Bar</string>
     <string name="desktop_show_qsb_summary">Show quick search bar on homescreen</string>
+
+    <!-- Suggestions -->
+    <string name="suggestion_pref_screen_title">Suggestions</string>
+    <string name="suggestion_pref_screen_desc">For All Apps &amp; Home screen suggestions</string>
 </resources>
